@@ -5,8 +5,6 @@
 
 Mods created by JV for [Vorons](https://github.com/VoronDesign).
 
-Name | Link
---- | ---
-Mini AfterBurner BMS | https://github.com/jarrettv/Voron/Mini-AfterBurner-BMS
-Mini AfterBurner Zip Ties | https://github.com/jarrettv/Voron/Mini-AfterBurner-ZipTies
-Voron 0 Modular Skirt | https://github.com/jarrettv/Voron/Voron-0-Modular-Skirt
+- [Mini AfterBurner BMS](Mini-AfterBurner-BMS/README.md)
+- [Mini AfterBurner Zip Ties](Mini-AfterBurner-ZipTies/README.md)
+- [Voron 0 Modular Skirt](Voron-0-Modular-Skirt/README.md)
